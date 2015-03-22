@@ -1,0 +1,6 @@
+This installation is made with python 2.7 for Django 1.6
+The installation provides you with a poll application for the project you are working in. 
+May it be of utmost use to you and your team. 
+
+Concepts:
+
